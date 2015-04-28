@@ -5,9 +5,9 @@ I am a French tech, food and sports lover! After a decade spent launching and op
 
 ## Code example
 
-| [Street-Pacman]| [Takeaway] |
+| [Street-Pacman]| [Takeaway] | [Chitter]
 | ------------- | ------------ | ---------- |
-|Street-Pacman is a fun app that enables you to play Pacman in real life using Google Maps and geolocation. Built fully in Javascript and using Socket.io as a final project at Makers Academy.| Website and back office for an imaginary takeaway restaurant using Ruby on Rails. | 
+|Street-Pacman is a fun app that enables you to play Pacman in real life using Google Maps and geolocation. Built in 10 days, fully in Javascript and using Socket.io as a final project at Makers Academy.| Website and back office for an imaginary takeaway restaurant using Ruby on Rails. | Chitter is my own version of Twitter, built in Ruby and using Sinatra.|
 
 
 ## Skills
@@ -91,3 +91,5 @@ I have excellent experience in online marketing campaigns, working on various ch
 - Tech: attend Codebar.io workshops
 
 [Street-Pacman]: https://github.com/vvirgitti/pacman-clientside.git
+[Takeaway]: https://github.com/vvirgitti/takeaway_rails
+[Chitter]: https://github.com/vvirgitti/chitter-challenge
