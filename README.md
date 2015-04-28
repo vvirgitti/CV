@@ -1,13 +1,13 @@
-## Vanessa Virgitti
+## VANESSA VIRGITTI
 
 I am a French tech, food and sports lover! After a decade spent launching and optimizing online marketing campaigns for multi-million $$ businesses, I am now looking for a position as a Junior Web Developer.
 
 
 ## Code example
 
-| [Street-Pacman]| [My Instagram] | [Takeaway] |
+| [Street-Pacman]| [Takeaway] |
 | ------------- | ------------ | ---------- |
-|Street-Pacman is a fun app that enables you to play Pacman in real life using Google Maps and geolocation. Built fully in Javascript and using Socket.io as a final project at Makers Academy.| My own version of Instagram using Ruby on Rails where users can post pictures, comment and like other users' pictures. | Website and back office for an imaginary takeaway restaurant.| 
+|Street-Pacman is a fun app that enables you to play Pacman in real life using Google Maps and geolocation. Built fully in Javascript and using Socket.io as a final project at Makers Academy.| Website and back office for an imaginary takeaway restaurant using Ruby on Rails. | 
 
 
 ## Skills
