@@ -1,6 +1,6 @@
 ## VANESSA VIRGITTI
 
-I am a French tech, food and sports lover! After a decade spent launching and optimizing online marketing campaigns for multi-million $$ businesses, I am now looking for a position as a Junior Web Developer.
+I am a French tech, food and sports lover living in the UK. After a decade spent launching and optimizing online marketing campaigns for international multi-million $$ businesses, I enrolled in an intensive 12 weeks web development program at Makers Academy and am now looking for a position as a Junior Web Developer.
 
 
 ## Code example
