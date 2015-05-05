@@ -42,8 +42,10 @@ I have excellent experience in online marketing campaigns, working on various ch
 #### Makers Academy (Feb 2015 - Apr 2015)
 
 - OOP, TDD, SOLID, MVC
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine
+- Ruby, Javascript, HTML5, CSS
+- Rails, Sinatra, Node.js, Angular.js, Express.js
+- Rspec, Jasmine, Capybara, Cucumber
+- Postgresql, SQL, ActiveRecords, Datamapper
 
 #### EDHEC Business School (Sep 2001 - June 2006)
 
@@ -86,9 +88,9 @@ I have excellent experience in online marketing campaigns, working on various ch
 
 ## Interests
 
-- Competitive sports: mainly softball and fencing
+- Competitive sports: mainly softball (pitcher and regional umpire) and fencing
 - Food: from Michelin stars restaurants to food trucks / recently converted to paleo
-- Tech: attend Codebar.io workshops
+- Tech: member of various groups (Women who code...) and attends worshops/conferences/meetups (Codebar, Women Hack...)
 
 [Street-Pacman]: https://github.com/vvirgitti/pacman-clientside.git
 [Takeaway]: https://github.com/vvirgitti/takeaway_rails
