@@ -54,8 +54,6 @@ I have excellent experience in online marketing campaigns, working on various ch
 - Semester exchange at Whitworth College, WA - USA
 - Belonged to the student video association Cylope
 
-#### Any other qualifications
-
 
 ## Experience
 
